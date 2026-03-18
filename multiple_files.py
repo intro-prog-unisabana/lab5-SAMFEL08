@@ -1,5 +1,3 @@
-from utils import *
-mensaje= input("Please type your message\n")
-inmensaje= flip(mensaje)
-a= count_letters(mensaje, "a")
-print(f"Your encoded message is: {inmensaje}{a}")
+import utils
+msj=input("Please type your message\n")
+print(f"Your encoded message is: {utils.flip(msj)}{utils.count_letters(msj, letter="a")}")
