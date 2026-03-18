@@ -32,4 +32,4 @@ while True:
         elif operation == "floor_divide":
             result = floor_divide(num1, num2)
 
-    print(f"The result is: {result}")
+    print("The result is:", result)
