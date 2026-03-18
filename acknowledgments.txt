@@ -11,7 +11,7 @@ Número de horas:6
 ******************************************************************************/
 
 ¿Sí o no?
-no
+si, en el archivo multiples.py intente de todo una y otra vez y nada que me dejaba pasar la prueba,incluso lo probe y compila correctamente pero aun asi pone que esta mal
 
 /******************************************************************************
 * Escribe cualquier otro comentario aquí.
